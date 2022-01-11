@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there 👋 I am THEMBO JONATHAN.
 
-<!--
-**jona42-ui/jona42-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I AM A SOFTWARE ENGINEERING STUDENT, TECH ENTHUSIAST, STRATEGIST AND PROBLEM SOLVER.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on A HIRING WEB APP.
+- 🌱 I’m currently learning SOTWARE OPTIMISATON.
+- 👯 I’m looking to collaborate on FRONT-END PROJECTS.
+- 🤔 I’m looking for help with DATASTRUCTURES AND ALGORITHMS.
+- 💬 Ask me about WEB DEVELOPMENT.
+- ⚡ Fun fact: AM AFRAID MY PC'S HARDWARE AND AM NOT A HARDWARE PERSON 😄 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+CONNECT WITH ME.
+
+[<img align="left" alt="medium" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />]
+[<img align="left" alt="medium" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
