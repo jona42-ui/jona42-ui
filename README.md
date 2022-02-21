@@ -3,7 +3,7 @@
 I AM A SOFTWARE ENGINEERING STUDENT, TECH ENTHUSIAST, STRATEGIST AND PROBLEM SOLVER.
 
 - 🔭 I’m currently working on A HIRING WEB APP.
-- 🌱 I’m currently learning SOTWARE OPTIMISATON.
+- 🌱 I’m currently learning SOTWARE ARTCHITECTURE.
 - 👯 I’m looking to collaborate on FRONT-END PROJECTS.
 - 🤔 I’m looking for help with DATASTRUCTURES AND ALGORITHMS.
 - 💬 Ask me about WEB DEVELOPMENT.
