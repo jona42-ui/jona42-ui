@@ -2,7 +2,7 @@
 
 I AM A SOFTWARE ENGINEERING STUDENT, TECH ENTHUSIAST, STRATEGIST AND PROBLEM SOLVER.
 
-- 🔭 I’m currently working on A HIRING WEB APP.
+- 🔭 I’m currently working on A DRAW ON BODY DIAGRAM APP at @openmrs
 - 🌱 I’m currently learning SOTWARE ARTCHITECTURE.
 - 👯 I’m looking to collaborate on FRONT-END PROJECTS.
 - 🤔 I’m looking for help with DATASTRUCTURES AND ALGORITHMS.
