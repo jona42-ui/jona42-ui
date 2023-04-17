@@ -5,7 +5,7 @@ I AM A SOFTWARE ENGINEERING STUDENT, TECH ENTHUSIAST, STRATEGIST AND PROBLEM SOL
 - 🔭 I’m currently working on A DRAW ON BODY DIAGRAM APP at @openmrs
 - 🌱 I’m currently learning SOTWARE ARTCHITECTURE.
 - 👯 I’m looking to collaborate on FRONT-END PROJECTS.
-- 🤔 I’m looking for help with DATASTRUCTURES AND ALGORITHMS.
+- 🤔 I’m looking for help with DISTRIBUTED SYSTEMS.
 - 💬 Ask me about WEB DEVELOPMENT.
 - ⚡ Fun fact: AM AFRAID MY PC'S HARDWARE MAY FAULT AND AM NOT A HARDWARE PERSON 😄 
 
