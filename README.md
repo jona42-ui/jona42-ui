@@ -7,7 +7,9 @@ I AM A SOFTWARE ENGINEERING STUDENT, TECH ENTHUSIAST, STRATEGIST AND PROBLEM SOL
 - 👯 I’m looking to collaborate on FRONT-END PROJECTS.
 - 🤔 I’m looking for help with DISTRIBUTED SYSTEMS.
 - 💬 Ask me about WEB DEVELOPMENT.
-- ⚡ Fun fact: AM AFRAID MY PC'S HARDWARE MAY FAULT AND AM NOT A HARDWARE PERSON 😄 
+- ⚡ Fun fact: AM AFRAID MY PC'S HARDWARE MAY FAULT AND AM NOT A HARDWARE PERSON 😄
+
+  ![image](https://github.com/jona42-ui/jona42-ui/blob/main/dino.gif)
 
 
 CONNECT WITH ME.
