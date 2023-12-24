@@ -17,13 +17,12 @@ CONNECT WITH ME.
 [<img align="left" alt="medium" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />]
 [<img align="left" alt="medium" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]
 
-
-# Blog posts
+### 📚 &ensp;Latest Medium Articles
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-https://medium.com/@jonathanthembo123/gsoc-2023-a-fun-and-engaging-orientation-session-a3adef27a3b9
 
-https://medium.com/@jonathanthembo123/gsoc23-community-bonding-1bc69d4274cf
+- [Gsoc-2023 Refelctions on Orientation](https://medium.com/@jonathanthembo123/gsoc-2023-a-fun-and-engaging-orientation-session-a3adef27a3b9)
+
+- [Gsoc-2023 Community(OpenMRS) bonding](https://medium.com/@jonathanthembo123/gsoc23-community-bonding-1bc69d4274cf)
 
 https://medium.com/@jonathanthembo123/week-2-community-bonding-bc33592f59fa
 
@@ -36,5 +35,7 @@ https://medium.com/@jonathanthembo123/how-to-track-progress-35919610f80d
 https://medium.com/@jonathanthembo123/what-is-imposter-syndrome-and-how-to-overcome-it-1ef2b1599c7e
 
 https://medium.com/@jonathanthembo123/coding-week-02-gsoc-2023-with-openmrs-3-x-c3e43f68e99b
+
+<!-- BLOG-POST-LIST:END -->
 
 
