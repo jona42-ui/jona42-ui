@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋, I'm <a href="https://www.linkedin.com/in/thembo-jonathan/">Thembo Jonathan!</a></h1>
-<h3 align="center">AI AM A SOFTWARE ENGINEERING STUDENT, TECH ENTHUSIAST, STRATEGIST AND PROBLEM SOLVER 🚀</h3>
+<h3 align="center">I AM A SOFTWARE ENGINEERING STUDENT, TECH ENTHUSIAST, STRATEGIST AND PROBLEM SOLVER 🚀</h3>
 
 - 🔭 I’m currently working on Micro Frontends
 - 🌱 I’m currently learning AI/ML.
