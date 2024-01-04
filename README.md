@@ -11,6 +11,9 @@
 <br />
 <br />
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jona42-ui&label=Profile%20views&color=0e75b6&style=flat" alt="jonathan thembo" /> </p>
+
   ![image](https://github.com/jona42-ui/jona42-ui/blob/main/dino.gif)
   
 <br />
