@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on Micro Frontends
 - 🌱 I’m currently learning AI/ML.
-- 👯 I’m looking to collaborate on FRONT-END PROJECTS.
-- 🤔 I’m looking for help with DISTRIBUTED SYSTEMS.
-- 💬 Ask me about WEB DEVELOPMENT.
+- 👯 I’m looking to collaborate on MICRO FRONT-END PROJECTS.
+- 🤔 I’m looking for help with DSA.
+- 💬 Ask me about WEB ENGINEERING.
 - ⚡ Fun fact: I am Afraid my PC'S Hardware May Fault And am not a Hardware Person 😄
 
 <br />
