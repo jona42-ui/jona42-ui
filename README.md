@@ -68,7 +68,7 @@
 <br />
 
 
-### Connect With Me
+<!--### Connect With Me -->
 
 <!-- [<img align="left" alt="medium" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/thembo-jonathan/) -->
 <!-- [<img align="left" alt="Johannes Milke | YouTube" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fyoutube.png?alt=media" />](https://youtube.com/@campusgeeks123?si=SK86tqoxD8oP1SWv) -->
@@ -80,7 +80,7 @@
 <br />
 
 
-### 📚 &ensp;Latest Medium Articles
+<!-- ### 📚 &ensp;Latest Medium Articles -->
 <!-- BLOG-POST-LIST:START 
 
 - [Gsoc-2023 Reflections on Orientation](https://medium.com/@jonathanthembo123/gsoc-2023-a-fun-and-engaging-orientation-session-a3adef27a3b9)
