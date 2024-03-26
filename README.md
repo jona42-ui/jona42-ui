@@ -81,7 +81,7 @@
 
 
 ### 📚 &ensp;Latest Medium Articles
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START 
 
 - [Gsoc-2023 Reflections on Orientation](https://medium.com/@jonathanthembo123/gsoc-2023-a-fun-and-engaging-orientation-session-a3adef27a3b9)
 
@@ -97,9 +97,9 @@
 
 - [The Imposter Syndrome](https://medium.com/@jonathanthembo123/what-is-imposter-syndrome-and-how-to-overcome-it-1ef2b1599c7e)
 
-- [Coding Period: Week Two](https://medium.com/@jonathanthembo123/coding-week-02-gsoc-2023-with-openmrs-3-x-c3e43f68e99b)
+- [Coding Period: Week Two](https://medium.com/@jonathanthembo123/coding-week-02-gsoc-2023-with-openmrs-3-x-c3e43f68e99b) -->
 
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END 
 
 ➡️ &ensp;[More Articles...](https://thembo.substack.com/)
 
@@ -108,7 +108,7 @@
 - [Gosc'23 Final Evaluation](https://www.youtube.com/watch?v=ycF1SNYG8CE&t=6s)
 - [FOSS Contribution Lightning Talk](https://youtu.be/N3kqw5uy1ic?si=JB2rcvm-SlZfhFwd)
 
- ➡️ &ensp;[More Videos...](https://youtube.com/@campusgeeks123?si=SK86tqoxD8oP1SWv)
+ ➡️ &ensp;[More Videos...](https://youtube.com/@campusgeeks123?si=SK86tqoxD8oP1SWv) -->
 
 
 ### 📊 GitHub Stats:
