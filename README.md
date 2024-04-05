@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 👋, I'm <a href="https://www.linkedin.com/in/thembo-jonathan/">Thembo Jonathan!</a></h1>
 <h3 align="center">I am a Sofware Engineering Student, Learner At Heart 🚀</h3>
 
-- 🔭 I’m currently working on Micro Frontends
+- 🔭 I’m currently working on Micro Frontends, AI/ML/NLP/DL
 - 🌱 I’m currently learning AI/ML.
 - 👯 I’m looking to collaborate on MICRO FRONT-END PROJECTS.
 - 🤔 I’m looking for help with DSA.
