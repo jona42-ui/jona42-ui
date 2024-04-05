@@ -2,7 +2,7 @@
 <h3 align="center">I am a Sofware Engineering Student, Learner At Heart 🚀</h3>
 
 - 🔭 I’m currently working on Micro Frontends, AI/ML/NLP/DL
-- 🌱 I’m currently learning AI/ML.
+- 🌱 I’m currently learning AI/ML FOR Networking and Medicine
 - 👯 I’m looking to collaborate on MICRO FRONT-END PROJECTS.
 - 🤔 I’m looking for help with DSA.
 - 💬 Ask me about WEB ENGINEERING.
