@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Micro-frontend systems, Distributed systems & AI/ML/NLP/DL systems
 - 🌱 I’m currently learning AI/ML For Networking and Health(Medicine)
-- 👯 I’m looking to collaborate on MICRO FRONT-END PROJECTS and Micro-services.
+- 👯 I’m looking to collaborate on Micro-frontends and Micro-services.
 - 🤔 I’m looking for help with DSA.
 - 💬 Ask me about SOFTWARE ENGINEERING.
 - ⚡ Fun fact: I am Afraid my PC'S Hardware May Fault And am not a Hardware Person 😄
