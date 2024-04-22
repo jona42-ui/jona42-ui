@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋, I'm <a href="https://www.linkedin.com/in/thembo-jonathan/">Thembo Jonathan!</a></h1>
+<h1 align="center"> Hi 👋, I'm Thembo Jonathan!</h1>
 <h3 align="center">I am a Sofware Engineering Student, Learner At Heart 🚀</h3>
 
 - 🔭 I’m currently working on Micro-frontends, Distributed Micro-services & AI/ML/NLP/DL systems
