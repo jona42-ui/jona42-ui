@@ -1,12 +1,12 @@
 <h1 align="center"> Hi 👋, I'm Thembo Jonathan!</h1>
-<h3 align="center">I am a Sofware Engineering Student, Learner At Heart 🚀</h3>
+<h3 align="center">I am a Sofware Engineering Student, learner at heart 🚀</h3>
 
 - 🔭 I’m currently working on Micro-frontend systems, Distributed systems & AI/ML/NLP/DL systems
-- 🌱 I’m currently learning AI/ML For Networking and Health(Medicine)
+- 🌱 I’m currently learning AI/ML for Networking and Health(Medicine)
 - 👯 I’m looking to collaborate on Micro-frontends and Micro-services.
 - 🤔 I’m looking for help with DSA.
 - 💬 Ask me about SOFTWARE ENGINEERING.
-- ⚡ Fun fact: I am Afraid my PC'S Hardware May Fault And am not a Hardware Person 😄
+- ⚡ Fun fact: I am Afraid my PC's Hardware May Fault And I am not a Hardware Person!
 
 <br />
 <br />
