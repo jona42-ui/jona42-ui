@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋, I'm Thembo Jonathan!</h1>
-<h3 align="center">I am a Sofware Engineering Student, learner at heart 🚀</h3>
+<h3 align="center">I am a Sofware Engineering Student, learner at heart 🚀!</h3>
 
 - 🔭 I’m currently working on Micro-frontend systems, Distributed systems & AI/ML/NLP/DL systems
 - 🌱 I’m currently learning AI/ML for Networking and Health(Medicine)
