@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on Micro-frontends and Micro-services.
 - 🤔 I’m looking for help with DSA.
 - 💬 Ask me about SOFTWARE ENGINEERING.
-- ⚡ Fun fact: I am Afraid my PC's Hardware May Fault And I am not a Hardware Person!
+- ⚡ Fun fact: I am afraid my PC's hardware may fault And I am not a hardware person!
 
 <br />
 <br />
