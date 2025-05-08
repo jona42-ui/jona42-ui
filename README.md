@@ -1,8 +1,8 @@
 <h1 align="center"> Hi 👋, I'm Thembo Jonathan!</h1>
 <h3 align="center">I am a Sofware Engineering Geek, learner at heart 🚀!</h3>
 
-- 🔭 I’m currently working on Micro-frontend systems, Distributed systems & AI/ML/NLP/DL systems
-- 🌱 I’m currently learning AI/ML for Networking and Health(Medicine)
+- 🔭 I’m currently working on Micro-frontend systems, Enterprise systems,  Distributed systems & AI/ML/NLP/DL systems
+- 🌱 I’m currently learning AI/ML for Networks and Health(Medicine)
 - 👯 I’m looking to collaborate on Micro-frontends and Micro-services.
 - 🤔 I’m looking for help with DSA.
 - 💬 Ask me about SOFTWARE ENGINEERING.
