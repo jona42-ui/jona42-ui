@@ -1,12 +1,14 @@
-<h1 align="center"> Hi 👋, I'm Thembo Jonathan!</h1>
-<h3 align="center">I am a Sofware Engineering Geek, learner at heart 🚀!</h3>
+<h1 align="center">🌍 Hey there, I'm <span style="color:#4db8ff">Thembo Jonathan</span> 👋</h1>
+<h3 align="center">A Passionate Software Engineering Geek | Lifelong Learner 🚀</h3>
 
-- 🔭 I’m currently working on Micro-frontend systems, Enterprise systems,  Distributed systems & AI/ML/NLP/DL systems
-- 🌱 I’m currently learning AI/ML for Networks and Health(Medicine)
-- 👯 I’m looking to collaborate on Micro-frontends and Micro-services.
-- 🤔 I’m looking for help with DSA.
-- 💬 Ask me about SOFTWARE ENGINEERING.
-- ⚡ Fun fact: I am afraid my PC's hardware may fault And I am not a hardware person!
+💡 **About Me**  
+- 🔭 Currently building **Micro-frontend architectures**, **Enterprise-grade systems**, and exploring the magic of **Distributed Systems** + **AI/ML/NLP/DL**  
+- 🌱 Deep diving into **AI for Networks & HealthTech** 🧠💉  
+- 👯 Open to collaborating on **cutting-edge microservices** & **frontend innovations**  
+- 🤔 Always refining my **DSA problem-solving** skills  
+- 💬 Love to talk about **Software Engineering**, clean architectures, and scaling systems  
+- ⚡ **Fun Fact:** I sometimes fear my PC’s hardware will give up on me (and I’m *definitely* not a hardware guy 😅)
+
 
 <br />
 <br />
