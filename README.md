@@ -6,8 +6,8 @@
 - 🌱 Deep diving into **AI for Networks & HealthTech** 🧠💉  
 - 👯 Open to collaborating on **cutting-edge microservices** & **frontend innovations**  
 - 🤔 Always refining my **DSA problem-solving** skills  
-- 💬 Love to talk about **Software Engineering**, clean architectures, and scaling systems  
-- ⚡ **Fun Fact:** I sometimes fear my PC’s hardware will give up on me (and I’m *definitely* not a hardware guy 😅)
+- 💬 Love to talk about **Software Engineering**, clean architectures, and scaling systems  and hardware integration
+
 
 
 <br />
