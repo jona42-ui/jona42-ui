@@ -1,5 +1,5 @@
 <h1 align="center">🌍 Hey there, I'm <span style="color:#4db8ff">Thembo Jonathan</span> 👋</h1>
-<h3 align="center">A Passionate Software Engineering Geek | Lifelong Learner 🚀</h3>
+<h3 align="center">Software Engineering Geek | Lifelong Learner 🚀</h3>
 
 💡 **About Me**  
 - 🔭 Currently building **Micro-frontend architectures**, **Enterprise-grade systems**, and exploring the magic of **Distributed Systems** + **AI/ML/NLP/DL**  
