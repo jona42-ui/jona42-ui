@@ -6,7 +6,7 @@
 - 🌱 Deep diving into Domain specific knowledge 🧠
 - 👯 Open to collaborating on IoT and web domain  
 - 🤔 Always refining my DSA  skills.
-- 💬 Love to talk about **Software Engineering**, clean architectures, and scaling systems  and hardware integrations.
+- 💬 Love to talk about **Software Engineering**, clean architecture, and scaling systems  and hardware integrations.
 
 
 
