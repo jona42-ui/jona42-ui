@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineering Geek | Lifelong Learner 🚀</h3>
 
 💡 **About Me**  
-- 🔭 Currently building/exloring software architecture,Distributed Systems,AI/ML 
+- 🔭 Currently building/exploring software architecture,Distributed Systems,AI/ML 
 - 🌱 Deep diving into Domain specific knowledge 🧠
 - 👯 Open to collaborating on IoT and web domain  
 - 🤔 Always refining my DSA  skills.
