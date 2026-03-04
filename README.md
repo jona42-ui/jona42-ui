@@ -2,11 +2,11 @@
 <h3 align="center">Software Engineering Geek | Lifelong Learner 🚀</h3>
 
 💡 **About Me**  
-- 🔭 Currently building **Micro-frontend architectures**, **Enterprise-grade systems**, and exploring the magic of **Distributed Systems** + **AI/ML/NLP/DL**  
-- 🌱 Deep diving into **AI for Networks & HealthTech** 🧠💉  
-- 👯 Open to collaborating on **cutting-edge microservices** & **frontend innovations**  
-- 🤔 Always refining my **DSA problem-solving** skills  
-- 💬 Love to talk about **Software Engineering**, clean architectures, and scaling systems  and hardware integration
+- 🔭 Currently building/exloring software architecture,Distributed Systems,AI/ML 
+- 🌱 Deep diving into Domain specific knowledge 🧠
+- 👯 Open to collaborating on IoT and web domain  
+- 🤔 Always refining my DSA  skills.
+- 💬 Love to talk about **Software Engineering**, clean architectures, and scaling systems  and hardware integrations.
 
 
 
